@@ -26,7 +26,7 @@ The repository covers the full workflow (some plots or graphing are excluded to 
 | Folder | Description |
 |--------|-------------|
 | `1_dataprep` | Data preparation scripts |
-| `2_modelruns/2026` | 2026 SS3 model runs (base model and sensitivities) |
+| `2_modelruns` | 2026 SS3 model runs (base model and sensitivities) |
 | `3_diagnostics` | Model diagnostics |
 | `4_gridrun` | Model grid runs |
 | `data` | Input data |
